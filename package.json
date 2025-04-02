@@ -16,7 +16,7 @@
   "dependencies": {
     "@cloudinary/url-gen": "^1.21.0",
     "@expo/vector-icons": "^14.0.2",
-    "@mahfujul-sagor/native-image-comparison-slider": "^0.1.6",
+    "@mahfujul-sagor/native-image-comparison-slider": "^0.2.0",
     "@react-navigation/native": "^6.0.2",
     "cloudinary": "^2.5.0",
     "expo": "^51.0.37",
